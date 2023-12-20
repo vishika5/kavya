@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>style sheet examples</title>
+<head>
+<link type="text/css" rel="stylesheet" href="abc.css">
+<style type="text/css">
+h1
+{
+background-color:green;
+font-size:10pt;
+}
+p
+{
+background-color:red;
+font-size:60pt;
+}
+</style>
+<body>
+<h1>this is heading</h1>
+<p>this is paragraph</p>
+<h2 style="color:blue";align:"center">this is heading 2</h2>
+<body>
+<html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book SYSTEM "bookt.dtd">
+<bookdetails>
+<book>
+<title>kavya</title>
+<author>hfukr</author>
+<isbn>ehfeuofh</isbn>
+<publisher>87387</publisher>
+<edition>7.9</edition>
+<price>8730</price>
+</book>
+
+<book>
+<title>kavya</title>
+<author>hfukr</author>
+<isbn>ehfeuofh</isbn>
+<publisher>87387</publisher>
+<edition>7.9</edition>
+<price>8730</price>
+</book>
+</bookdetails>
